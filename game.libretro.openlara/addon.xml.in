@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.openlara"
+		name="Tomb Raider (OpenLara)"
+		version="1.0.0.1"
+		provider-name="XProger">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>phd|psx|tr2|sat</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Tomb Raider (OpenLara) v1</summary>
+		<description lang="en_GB">Supported files: .phd, .psx, .tr2, .sat</description>
+		<license>2-clause BSD</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.openlara</source>
+	</extension>
+</addon>

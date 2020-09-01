@@ -1,0 +1,1 @@
+openlara https://github.com/libretro/OpenLara/archive/0b887fd8097c99d940ab7c253e92496dd2334af8.zip

@@ -22,9 +22,9 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Framerate (restart)"
+msgid "Internal resolution (restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Internal resolution (restart)"
+msgid "Framerate (restart)"
 msgstr ""

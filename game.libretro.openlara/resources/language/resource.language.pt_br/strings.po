@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Tomb Raider (OpenLara) v1"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "OpenLara is a Classic Tomb Raider open-source engine. It was inspired by the OpenTomb project.
+
+Supported files: .phd, .psx, .tr2, .sat"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

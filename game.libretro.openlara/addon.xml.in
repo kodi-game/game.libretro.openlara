@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.openlara</source>
 		<summary lang="en_GB">Tomb Raider (OpenLara) v1</summary>
-		<description lang="en_GB">OpenLara is a Classic Tomb Raider open-source engine. It was inspired by the OpenTomb project.Supported files: .phd, .psx, .tr2, .sat</description>
+		<description lang="en_GB">OpenLara is a Classic Tomb Raider open-source engine. It was inspired by the OpenTomb project.</description>
 	</extension>
 </addon>

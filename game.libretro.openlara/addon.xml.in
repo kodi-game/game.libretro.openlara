@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.openlara"
 		name="Tomb Raider (OpenLara)"
-		version="1.0.0.5"
+		version="1.0.0.6"
 		provider-name="XProger">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>phd|psx|tr2|sat</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>true</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>2-clause BSD</license>

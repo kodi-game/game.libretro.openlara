@@ -18,6 +18,7 @@
 		<license>2-clause BSD</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.openlara</source>
+		<summary lang="da_DK">Tomb Raider (OpenLara)</summary>
 		<summary lang="en_GB">Tomb Raider (OpenLara)</summary>
 		<summary lang="es_ES">Tomb Raider (OpenLara)</summary>
 		<description lang="da_DK">OpenLara er en klassisk Tomb Raider open source-motor. Det var inspireret af OpenTomb-projektet.</description>

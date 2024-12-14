@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "OpenLara is a Classic Tomb Raider open-source engine. It was inspired by the OpenTomb project."
 msgstr "OpenLara 是一个经典的古墓丽影开源引擎。它的灵感来自 OpenTumble 项目。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Internal resolution (restart)"
 msgstr "内部分辨率（重新启动）"
@@ -36,3 +32,7 @@ msgstr "内部分辨率（重新启动）"
 msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr "帧率（重启）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

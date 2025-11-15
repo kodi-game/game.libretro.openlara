@@ -29,6 +29,7 @@
 		<summary lang="es_ES">Tomb Raider (OpenLara)</summary>
 		<summary lang="ga">Tuama Raider (OpenLara)</summary>
 		<summary lang="it_IT">Tomb Raider (OpenLara)</summary>
+		<summary lang="ru_RU">Tomb Raider (OpenLara)</summary>
 		<summary lang="sv_SE">Tomb Raider (OpenLara)</summary>
 		<summary lang="zh_CN">古墓丽影（OpenLara）</summary>
 		<description lang="da_DK">OpenLara er en klassisk Tomb Raider open source-motor. Det var inspireret af OpenTomb-projektet.</description>
@@ -36,6 +37,7 @@
 		<description lang="es_ES">OpenLara es un motor de código abierto del clásico Tomb Raider. Está inspirado en el proyecto OpenTomb.</description>
 		<description lang="ga">Inneall foinse oscailte clasaiceach do Tomb Raider is ea OpenLara. Spreag tionscadal OpenTomb é.</description>
 		<description lang="it_IT">OpenLara è un motore open source di Tomb Raider classico. È stato ispirato dal progetto OpenTomb.</description>
+		<description lang="ru_RU">OpenLara - классический движок с открытым исходным кодом для Tomb Raider. Он был вдохновлен проектом OpenTomb.</description>
 		<description lang="sl_SI">OpenLara je odprtokodni motor Classic Tomb Raider. Navdihnil ga je projekt OpenTomb.</description>
 		<description lang="sv_SE">OpenLara är en klassisk Tomb Raider-motor med öppen källkod. Den inspirerades av OpenTomb-projektet.</description>
 		<description lang="zh_CN">OpenLara 是一个经典的古墓丽影开源引擎。它的灵感来自 OpenTumble 项目。</description>

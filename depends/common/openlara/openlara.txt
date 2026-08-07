@@ -1,1 +1,1 @@
-openlara https://github.com/libretro/OpenLara/archive/5ddc6f7172d2984de6a979a29db295ab70826438.tar.gz
+openlara https://github.com/libretro/OpenLara/archive/e4ce52edec5a9a6ad22b69d08c687bf070e68876.tar.gz

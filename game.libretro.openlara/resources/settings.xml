@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-	<category label="128">
-		<setting label="30001" type="select" id="openlara_resolution" values="320x240|360x480|480x272|512x384|512x512|640x224|640x448|640x480|720x576|800x600|960x720|1024x768|1280x720|1280x960|1600x1200|1920x1080|1920x1440|1920x1600|2048x2048|2560x1440|3840x2160|7680x4320|15360x8640|16000x9000" default="320x240"/>
-		<setting label="30002" type="select" id="openlara_framerate" values="60fps|30fps|70fps|72fps|75fps|90fps|100fps|119fps|120fps|144fps|240fps|244fps" default="60fps"/>
-	</category>
+<settings version="1">
+	<section id="game.libretro.openlara">
+		<category id="general" label="128">
+			<group id="1">
+				<setting id="openlara_resolution" type="string" label="30001">
+					<level>0</level>
+					<default>320x240</default>
+					<constraints>
+						<options>
+							<option>320x240</option>
+							<option>360x480</option>
+							<option>480x272</option>
+							<option>512x384</option>
+							<option>512x512</option>
+							<option>640x224</option>
+							<option>640x448</option>
+							<option>640x480</option>
+							<option>720x576</option>
+							<option>800x600</option>
+							<option>960x720</option>
+							<option>1024x768</option>
+							<option>1280x720</option>
+							<option>1280x960</option>
+							<option>1600x1200</option>
+							<option>1920x1080</option>
+							<option>1920x1440</option>
+							<option>1920x1600</option>
+							<option>2048x2048</option>
+							<option>2560x1440</option>
+							<option>3840x2160</option>
+							<option>7680x4320</option>
+							<option>15360x8640</option>
+							<option>16000x9000</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="openlara_framerate" type="string" label="30002">
+					<level>0</level>
+					<default>60fps</default>
+					<constraints>
+						<options>
+							<option>60fps</option>
+							<option>30fps</option>
+							<option>70fps</option>
+							<option>72fps</option>
+							<option>75fps</option>
+							<option>90fps</option>
+							<option>100fps</option>
+							<option>119fps</option>
+							<option>120fps</option>
+							<option>144fps</option>
+							<option>240fps</option>
+							<option>244fps</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+	</section>
 </settings>
